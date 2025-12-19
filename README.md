@@ -28,6 +28,4 @@ python diskon_service.py
 ### 2. Unit testing
 Jalankan perintah berikut di terminal untuk memverifikasi bahwa semua kode berfungsi dengan benar:
 `python -m unittest test_diskon.py`, Menjalankan Test Dasar:
-``
-`python -m unittest test_diskon_advanced.py` Menjalankan Test Lanjutan (Latihan Mandiri):
-```
+```bash
